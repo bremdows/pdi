@@ -35,3 +35,7 @@ def main() :
 
 if __name__ == "__main__" :
     main()
+
+"""
+Investigar un código para invertir el video mostrado por la web cambio o cualquier otro video
+"""
