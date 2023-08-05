@@ -38,4 +38,5 @@ if __name__ == "__main__" :
 
 """
 Investigar un código para invertir el video mostrado por la web cambio o cualquier otro video
+(Progrmar un horario para realizar estas actividades)
 """
